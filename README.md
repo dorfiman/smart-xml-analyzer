@@ -7,5 +7,6 @@ Smart XML Analyzer for AgileEngine
 * To run the application execute:
 `java -jar [origin-html-file.html] [diff-case-html-file.html]`
 
-
 __Note:__ the arguments must have the complete path. 
+
+* The outputs of the 4 samples are located in _/outputs_ folder
